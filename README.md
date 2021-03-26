@@ -11,3 +11,4 @@ To make an live arch system to flash to a USB, and run Minecraft on even the slo
 - [ ] Shortcuts for reboot, shudown and debug
 - [ ] Be able to set wifi settings 
 - [ ] Peformance enhancing (Optifine? Sodium+Phosphor+Lithium?)
+- [ ] Hardware support (Especially Nvidia)
