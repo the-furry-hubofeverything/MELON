@@ -1,0 +1,12 @@
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+base
+linux
+mkinitcpio
+mkinitcpio-archiso
+syslinux
+java-runtime
+libgl
+java-environment
+xorg-server
+
