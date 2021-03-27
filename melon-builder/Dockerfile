@@ -3,7 +3,7 @@
 FROM archlinux
 
 #Install git and archiso
-RUN pacman -Sy git archiso --noconfirm
+RUN pacman -Sy git archiso wget --noconfirm
 
 #Copy the build script and allow him to be executed
 COPY files/buildscript.sh root/

@@ -9,4 +9,7 @@ java-runtime
 libgl
 java-environment
 xorg-server
-
+qt5-base
+xorg-xinit
+xorg-drivers
+nvidia
